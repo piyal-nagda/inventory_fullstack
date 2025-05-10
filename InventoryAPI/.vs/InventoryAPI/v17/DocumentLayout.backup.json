@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|c:\\users\\priya\\onedrive\\documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|c:\\users\\priya\\onedrive\\documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\inventoryapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|c:\\users\\priya\\onedrive\\documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\inventoryapi\\migrations\\20250507082435_addstatusanddescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|solutionrelative:migrations\\20250507082435_addstatusanddescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|c:\\users\\priya\\onedrive\\documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\inventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|c:\\users\\priya\\onedrive\\documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\inventoryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|c:\\users\\priya\\onedrive\\documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\inventoryapi\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5048C7-43C5-430B-A1F5-57F9F24CA4CA}|InventoryAPI.csproj|solutionrelative:models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250507082435_AddStatusAndDescription.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Migrations\\20250507082435_AddStatusAndDescription.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250507082435_AddStatusAndDescription.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Migrations\\20250507082435_AddStatusAndDescription.cs",
+              "RelativeToolTip": "Migrations\\20250507082435_AddStatusAndDescription.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:24:36.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA2wC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:14:56.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:14:19.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T07:13:35.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:08:19.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Models\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Models\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\fullstackprojectforcapgtrainingecom\\fullstackassesson0705\\backend\\InventoryAPI\\Models\\InventoryItem.cs",
+              "RelativeToolTip": "Models\\InventoryItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:58:28.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
